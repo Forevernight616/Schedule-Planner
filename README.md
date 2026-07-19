@@ -1,4 +1,4 @@
-# Schedule Planner: 
+# Dream Planner: 
 A java application to schedule all of your tasks!
 
 ---
