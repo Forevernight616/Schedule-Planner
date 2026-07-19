@@ -83,3 +83,8 @@ The PlannerServer hosts the PlannerClients on port 4000 to connect to them and C
 Utilizes username.csv to store all usernames and passwords that can be logged in. 
 Then inside our UserData folder, there is a .csv file named after the user whose data it is storing. These CSV files store task and customization data. This CSV is updated after every log out or window close!
 
+Credits:
+- Duc Tan Tran
+- Paloma Ortiz
+- Braa Oudeh
+- Khanh Nguyen
